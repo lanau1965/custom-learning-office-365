@@ -180,6 +180,145 @@
   ],
   "Categories": [
     {
+      "Id": "743180bc-7f93-42d9-ba59-9b53c5ceacf0",
+      "Name": "Manager Support Resources",
+      "Image": "",
+      "TechnologyId": "",
+      "SubjectId": "",
+      "Source": "",
+      "SubCategories": [
+        {
+          "Id": "9bde32c3-2f0b-4201-b4a3-74cef2c8f61d",
+          "Name": "Performance Reviews and Goal Setting",
+          "Image": "",
+          "TechnologyId": "",
+          "SubjectId": "",
+          "Source": "",
+          "SubCategories": []
+        },
+        {
+          "Id": "47a64d18-1f67-4597-b7ea-a116cc4e2f2a",
+          "Name": "Managing Employee Onboarding and Offboarding",
+          "Image": "",
+          "TechnologyId": "",
+          "SubjectId": "",
+          "Source": "",
+          "SubCategories": []
+        },
+        {
+          "Id": "73011a1f-1bcc-4808-8f80-8b523c08471d",
+          "Name": "Managing Employee Training",
+          "Image": "",
+          "TechnologyId": "",
+          "SubjectId": "",
+          "Source": "",
+          "SubCategories": []
+        },
+        {
+          "Id": "ceff17cd-babf-489e-8529-b2d4931fa822",
+          "Name": "HR Support for Managers",
+          "Image": "",
+          "TechnologyId": "",
+          "SubjectId": "",
+          "Source": "",
+          "SubCategories": []
+        }
+      ]
+    },
+    {
+      "Id": "b3127d47-de0b-411d-ae4d-3c3a7699ee09",
+      "Name": "Human Resources Support",
+      "Image": "",
+      "TechnologyId": "",
+      "SubjectId": "",
+      "Source": "",
+      "SubCategories": [
+        {
+          "Id": "a78c9b42-21f2-40d9-8651-2fe7b8dc22b9",
+          "Name": "Performance Reviews",
+          "Image": "",
+          "TechnologyId": "",
+          "SubjectId": "",
+          "Source": "",
+          "SubCategories": []
+        },
+        {
+          "Id": "91e4d5ad-1454-4d8d-9687-53aa47961a7a",
+          "Name": "Goal Setting and Development Plans",
+          "Image": "",
+          "TechnologyId": "",
+          "SubjectId": "",
+          "Source": "",
+          "SubCategories": []
+        },
+        {
+          "Id": "963c8b9e-6267-498c-ad7a-d2c05e7181c5",
+          "Name": "Professional Learning Portal (PLP)",
+          "Image": "",
+          "TechnologyId": "",
+          "SubjectId": "",
+          "Source": "",
+          "SubCategories": []
+        },
+        {
+          "Id": "da97c97a-f2ce-41a7-8afe-551f305b2326",
+          "Name": "Managing You Time and Payroll",
+          "Image": "",
+          "TechnologyId": "",
+          "SubjectId": "",
+          "Source": "BlueCrest",
+          "SubCategories": []
+        }
+      ]
+    },
+    {
+      "Id": "a7eb5a79-19da-4d41-acf1-b8b5d0859976",
+      "Name": "D365 Systems",
+      "Image": "",
+      "TechnologyId": "",
+      "SubjectId": "",
+      "Source": "",
+      "SubCategories": [
+        {
+          "Id": "2796455a-72df-4cd3-b540-a9eed9bc75fe",
+          "Name": "D365 for Field Service",
+          "Image": "",
+          "TechnologyId": "",
+          "SubjectId": "",
+          "Source": "BlueCrest",
+          "SubCategories": []
+        },
+        {
+          "Id": "0425b561-4060-4c3a-b6c0-032bf0968f9d",
+          "Name": "D365 for Finance and Operations",
+          "Image": "",
+          "TechnologyId": "",
+          "SubjectId": "",
+          "Source": "BlueCrest",
+          "SubCategories": []
+        }
+      ]
+    },
+    {
+      "Id": "8436ac95-a521-4286-9ef6-5b438b5cea71",
+      "Name": "IT Resources",
+      "Image": "",
+      "TechnologyId": "",
+      "SubjectId": "",
+      "Source": "BlueCrest",
+      "SubCategories": [
+        {
+          "Id": "0f98ce2f-6ddc-426d-9228-3b9eb6e0bf5e",
+          "Name": "IT Self-Guided Support",
+          "Image": "",
+          "TechnologyId": "",
+          "SubjectId": "",
+          "Source": "BlueCrest",
+          "SubCategories": []
+        }
+      ]
+    },
+    {
       "Id": "646b4eb4-32c0-4fdc-93fa-0ef895470b74",
       "Name": "Get started",
       "Image": "",
