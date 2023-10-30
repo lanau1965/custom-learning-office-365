@@ -268,8 +268,8 @@
         {
           "Id": "da97c97a-f2ce-41a7-8afe-551f305b2326",
           "Name": "Managing Your Time and Payroll",
-          "Image": "",
-          "TechnologyId": "images/categories/hr-payroll-support.png",
+          "Image": "images/categories/hr-payroll-support.png",
+          "TechnologyId": "",
           "SubjectId": "",
           "Source": "BlueCrest",
           "SubCategories": []
