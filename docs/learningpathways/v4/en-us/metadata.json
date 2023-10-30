@@ -241,7 +241,7 @@
         {
           "Id": "a78c9b42-21f2-40d9-8651-2fe7b8dc22b9",
           "Name": "Performance Reviews",
-          "Image": "",
+          "Image": "https://bluecrestinc.sharepoint.com/sites/M365LP/siteassets/annual-perf-review-icon.png",
           "TechnologyId": "",
           "SubjectId": "",
           "Source": "",
@@ -250,7 +250,7 @@
         {
           "Id": "91e4d5ad-1454-4d8d-9687-53aa47961a7a",
           "Name": "Goal Setting and Development Plans",
-          "Image": "",
+          "Image": "https://bluecrestinc.sharepoint.com/sites/M365LP/siteassets/goal-setting-icon.png",
           "TechnologyId": "",
           "SubjectId": "",
           "Source": "",
@@ -259,7 +259,7 @@
         {
           "Id": "963c8b9e-6267-498c-ad7a-d2c05e7181c5",
           "Name": "Professional Learning Portal (PLP)",
-          "Image": "",
+          "Image": "https://bluecrestinc.sharepoint.com/sites/M365LP/siteassets/plp-playlist-icon.png",
           "TechnologyId": "",
           "SubjectId": "",
           "Source": "",
@@ -269,7 +269,7 @@
           "Id": "da97c97a-f2ce-41a7-8afe-551f305b2326",
           "Name": "Managing You Time and Payroll",
           "Image": "",
-          "TechnologyId": "",
+          "TechnologyId": "https://bluecrestinc.sharepoint.com/sites/M365LP/siteassets/payroll-playlist-image.png",
           "SubjectId": "",
           "Source": "BlueCrest",
           "SubCategories": []
