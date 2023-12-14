@@ -325,7 +325,7 @@
     },
     {
       "Id": "7f7c79d7-d56d-4200-9512-e817c8b13f1a",
-      "Name": "General",
+      "Name": "Facilities",
       "Image": "",
       "TechnologyId": "",
       "SubjectId": "",
@@ -333,7 +333,7 @@
       "SubCategories": [
         {
           "Id": "bbf1f5ae-4d81-47f3-9414-ec0e2ebd9c58",
-          "Name": "Facilities (Danbury)",
+          "Name": "Facilities",
           "Image": "",
           "TechnologyId": "",
           "SubjectId": "",
