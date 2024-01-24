@@ -305,6 +305,25 @@
       ]
     },
     {
+      "Id": "ffa47a1a-fee4-4b64-a322-3ee4a2cb0016",
+      "Name": "Software Portal Support",
+      "Image": "",
+      "TechnologyId": "",
+      "SubjectId": "",
+      "Source": "BlueCrest",
+      "SubCategories": [
+        {
+          "Id": "d8aa4baa-c6e2-4f95-824e-8cd50153dc0e",
+          "Name": "Software Portal Support",
+          "Image": "",
+          "TechnologyId": "",
+          "SubjectId": "",
+          "Source": "BlueCrest",
+          "SubCategories": []
+        }
+      ]
+    },    
+    {
       "Id": "8436ac95-a521-4286-9ef6-5b438b5cea71",
       "Name": "IT Resources",
       "Image": "",
