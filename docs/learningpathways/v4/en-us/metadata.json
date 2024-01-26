@@ -230,6 +230,16 @@
         }
       ]
     },
+        {
+      "Id": "d92a0c01-722f-4990-b26f-d6b2c10b5f8f",
+      "Name": "Employee Support Resources",
+      "Image": "",
+      "TechnologyId": "",
+      "SubjectId": "",
+      "Source": "BlueCrest",
+      "SubCategories": [
+      ]
+    },    
     {
       "Id": "b3127d47-de0b-411d-ae4d-3c3a7699ee09",
       "Name": "Human Resources Support",
