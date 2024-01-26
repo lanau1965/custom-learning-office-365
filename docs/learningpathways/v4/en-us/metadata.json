@@ -238,6 +238,42 @@
       "SubjectId": "",
       "Source": "BlueCrest",
       "SubCategories": [
+        {
+          "Id": "d7541ace-e16f-4622-b45e-f506ccb72387",
+          "Name": "Performance Reviews",
+          "Image": "images/categories/annual-perf-review-icon.png",
+          "TechnologyId": "",
+          "SubjectId": "",
+          "Source": "",
+          "SubCategories": []
+        },
+        {
+          "Id": "da96a636-c202-4668-9e1a-84f2ea576fcf",
+          "Name": "Goal Setting and Development Plans",
+          "Image": "images/categories/goal-setting-icon.png",
+          "TechnologyId": "",
+          "SubjectId": "",
+          "Source": "",
+          "SubCategories": []
+        },
+        {
+          "Id": "fddbdff3-137f-4a9e-9646-02b1e214b3c9",
+          "Name": "Professional Learning Portal (PLP)",
+          "Image": "images/categories/plp-playlist-icon.png",
+          "TechnologyId": "",
+          "SubjectId": "",
+          "Source": "",
+          "SubCategories": []
+        },
+        {
+          "Id": "e3981e9c-379e-4cd4-bf2e-da1456a4cb01",
+          "Name": "Managing Your Time and Payroll",
+          "Image": "images/categories/hr-payroll-support.png",
+          "TechnologyId": "",
+          "SubjectId": "",
+          "Source": "BlueCrest",
+          "SubCategories": []
+        }        
       ]
     },    
     {
